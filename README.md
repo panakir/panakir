@@ -1,4 +1,4 @@
-# 💫 About Me: Hi, I`m Kiryl and I`m a junior frontend developer
+# 💫 About Me: Hi, I'm Kiryl and I'm a junior frontend developer
 
 🔭 I’m currently working on final team project the Rolling Scopes School<br>🤝 I’m looking for help with my first job<br>🌱 I’m currently learning React
 
